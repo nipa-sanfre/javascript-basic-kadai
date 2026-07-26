@@ -1,8 +1,8 @@
-const height = 68;
+const weight = 68;
 
-const heavy = 1.7;
+const height = 1.7;
 
 
-const bmi = height / (heavy*heavy);
+const bmi = weight / (height*height);
 
 console.log(bmi);
